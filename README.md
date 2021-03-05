@@ -1,3 +1,21 @@
+# RNA
+
+## Instalação e Execução
+Clone o repositório:
+```
+git clone git@github.com:cacajr/RNA-CNN.git
+```
+Execute:
+```
+python3 -m venv .
+. bin/activate
+pip3 install -r requirements.txt
+```
+Para executar os arquivos no jupiter:
+```
+jupyter-notebook
+```
+
 # Informações
 A Rede Neural implementada segue a arquitetura de LeNet-5 e foi criada, a priore, para dois conjuntos de dados: MNIST e CIFAR-10. Os dados são fornecidos através da lib [sklearn](https://scikit-learn.org/stable/) pelo site [OpenML](https://www.openml.org/).
 
