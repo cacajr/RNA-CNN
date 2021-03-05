@@ -21,3 +21,14 @@ As camadas na implementação estão dispostas da seguinte maneira:
 Para efetuar o teste, basta clonar o repositório e instalar as dependências listadas no arquivo **requirements.txt**: pip install -r requirements.txt. Em seguida execute, o arquivo principal **__init__.py**.
 
 Inicialmente estará com o conjunto de dados MNIST, porém pode ser alterado para o conjunto CIFAR-10 modificando o valor da variável **dataset_name** para **"cifar_10"**: dataset_name = "cifar_10".
+
+# Resultados Obtidos
+## MNIST
+Ao efetuarmos os treinamentos utilizando 75% dos dados para treinamento e as configurações da CNN descritas no tópico **Informações**, a evolução da acurácia ao decorrer das épocas foi a seguinte:
+
+Tendo como avaliação geral os seguintes resultados:
+
+## CIFAR-10
+Ao efetuarmos os treinamentos utilizando 75% dos dados para treinamento e as configurações da CNN descritas no tópico **Informações**, a evolução da acurácia ao decorrer das épocas foi a seguinte:
+
+Tendo como avaliação geral os seguintes resultados:
