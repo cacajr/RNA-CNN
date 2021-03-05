@@ -35,4 +35,8 @@ Tendo como avaliação geral os seguintes resultados:
 ## CIFAR-10
 Ao efetuarmos os treinamentos utilizando 75% dos dados para treinamento e as configurações da CNN descritas no tópico **Informações**, a evolução da acurácia ao decorrer das épocas foi a seguinte:
 
+![cifar_10_epocas](https://user-images.githubusercontent.com/51512175/110180045-de929d80-7de7-11eb-9718-efa13793f4b5.png)
+
 Tendo como avaliação geral os seguintes resultados:
+
+![cifar_10_avaliacao](https://user-images.githubusercontent.com/51512175/110180054-e0f4f780-7de7-11eb-857c-975bb23b7d9d.png)
