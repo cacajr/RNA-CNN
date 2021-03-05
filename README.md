@@ -30,6 +30,8 @@ Ao efetuarmos os treinamentos utilizando 75% dos dados para treinamento e as con
 
 Tendo como avaliação geral os seguintes resultados:
 
+![mnist_784_avaliacao](https://user-images.githubusercontent.com/51512175/110179984-c4f15600-7de7-11eb-8887-f1b2492b4a3d.png)
+
 ## CIFAR-10
 Ao efetuarmos os treinamentos utilizando 75% dos dados para treinamento e as configurações da CNN descritas no tópico **Informações**, a evolução da acurácia ao decorrer das épocas foi a seguinte:
 
