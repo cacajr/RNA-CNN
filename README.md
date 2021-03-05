@@ -18,7 +18,7 @@ As camadas na implementação estão dispostas da seguinte maneira:
 7 - FC com 84 nós.
 
 # Testando
-Para efetuar o teste, basta clonar o repositório e instalar as dependências listadas no arquivo **requirements.txt**: pip install -r requirements.txt. Em seguida execute, o arquivo principal **__init__.py**.
+Para efetuar o teste, basta clonar o repositório e instalar as dependências listadas no arquivo **requirements.txt**: pip install -r requirements.txt. Em seguida, execute o arquivo principal **__init__.py**.
 
 Inicialmente estará com o conjunto de dados MNIST, porém pode ser alterado para o conjunto CIFAR-10 modificando o valor da variável **dataset_name** para **"cifar_10"**: dataset_name = "cifar_10".
 
