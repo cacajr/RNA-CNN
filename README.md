@@ -26,6 +26,8 @@ Inicialmente estará com o conjunto de dados MNIST, porém pode ser alterado par
 ## MNIST
 Ao efetuarmos os treinamentos utilizando 75% dos dados para treinamento e as configurações da CNN descritas no tópico **Informações**, a evolução da acurácia ao decorrer das épocas foi a seguinte:
 
+![mnist_784_epocas](https://user-images.githubusercontent.com/51512175/110179791-7348cb80-7de7-11eb-8cb2-49b9a314c53e.png)
+
 Tendo como avaliação geral os seguintes resultados:
 
 ## CIFAR-10
