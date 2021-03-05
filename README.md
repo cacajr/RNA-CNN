@@ -1,4 +1,4 @@
-# RNA
+# RNA (Danilo Alexandrino e Antonio Carlos)
 
 ## Instalação e Execução
 Clone o repositório:
